@@ -9,7 +9,7 @@ public class Angulo {
     
     public static void main(String args[]) {
         
-        Teste minhaClasse = new Teste();
+        Angulo minhaClasse = new Angulo();
         Scanner entrada = new Scanner(System.in);
         
         Instant instant = Instant.now();
